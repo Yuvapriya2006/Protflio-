@@ -1,5 +1,5 @@
-# Protflio-
-<!DOCTYPE html>
+# Protflio-            <h1>Yuvapriya 
+<!D OCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -98,9 +98,9 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="/storage/emulated/999/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20250403-WA0006.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="/storage/emulated/999/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20250407-WA0048.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Yuvapriya K </h1>
-            <p>Am Computer Engineer</p>
+            <p>Am Student</p>
         </div>
     </header>
 
@@ -131,7 +131,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Bharathiyar univercity - computer scince</p>
+            <p>Bharathiyar univercity - computer science</p>
             
             
         </div>
